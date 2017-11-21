@@ -2,4 +2,6 @@
 
 Projeto de portifólio de desenvolvimento web.
 
-http://dev.belenos.me
+Preview: http://dev.belenos.me
+
+Versão 0.1
