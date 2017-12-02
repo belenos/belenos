@@ -1,6 +1,6 @@
 # Rafael Belenos
 
-Projeto de portifólio de desenvolvimento web.
+Projeto de portifólio de desenvolvimento web (EM BREVE).
 
 Preview: http://dev.belenos.me
 
